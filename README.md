@@ -19,3 +19,4 @@
     width = np.pi/20*np.array(minTrainCostTime)
     plt.bar(theta, radii,  width=width, color=['brown','red','green','blue','pink','yellow','purple'], edgecolor='black', linewidth=1.5, alpha=0.7)
     plt.xticks(ind, ('Constant', 'AdaGrad', 'AdaDelta', 'RMSprop', 'Adam','Cyclical','Energy'))
+![image](https://user-images.githubusercontent.com/46899273/54505729-19ebe700-4907-11e9-8ce5-f98b043ec648.png)
